@@ -1,0 +1,4 @@
+DialogAlbumInfo.xml:							<onclick>ActivateWindow(videos,plugin://plugin.video.youtube/kodion/search/query/?q=$INFO[ListItem.Artist],return)</onclick>
+DialogAlbumInfo.xml:							<onclick>ActivateWindow(videos,plugin://plugin.video.youtube/kodion/search/query/?q=$INFO[ListItem.Title],return)</onclick>
+DialogSongInfo.xml:	<onclick>ActivateWindow(videos,plugin://plugin.video.youtube/kodion/search/query/?q=$INFO[ListItem.Artist],return)</onclick>
+DialogSongInfo.xml:	<onclick>ActivateWindow(videos,plugin://plugin.video.youtube/kodion/search/query/?q=$INFO[ListItem.Title],return)</onclick>
